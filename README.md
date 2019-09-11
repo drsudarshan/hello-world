@@ -1,3 +1,3 @@
-# hello-world
-This is Sudarshan here and I love bubble tea.
-Honesty is the best policy.
+Sudarshan Srinivasan
+Xilinx Zynq ARM Cortex-9
+Favorite Pizza topping - Green Peppers
